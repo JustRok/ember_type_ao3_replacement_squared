@@ -1,0 +1,2 @@
+# ember_type_ao3_replacement_squared
+2
